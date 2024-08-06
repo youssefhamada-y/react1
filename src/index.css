@@ -1,0 +1,63 @@
+.bgblue{
+    background-color: #2C3E50 !important;
+}
+.roboto{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.bglightblue{
+    background-color: #3b4d5f !important;
+}
+.circle{
+    border: 1px solid white !important;
+    border-radius: 50% !important;
+    -webkit-border-radius: 50% !important;
+    -moz-border-radius: 50% !important;
+    -ms-border-radius: 50% !important;
+    -o-border-radius: 50% !important;
+}
+.bgdarkblue{
+    background-color: #1d242b !important;
+}
+.widthsmall{
+    width: 250px !important;
+}
+.bggreen{
+    background-color: #1ABC9C !important;
+}
+.widthsmallpx{
+    width: 100px !important;
+    height: 6px !important;
+}
+.fontsize{
+    font-size: 50px !important;
+}
+.textblue{
+    color: #2C3E50 !important;
+}
+.bggreentrans{
+    background-color: rgba(26, 188, 156,0.8) !important;
+    cursor: pointer;
+    opacity: 0 !important;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+.bggreentrans:hover{
+    opacity: 1 !important;
+}
+.marginstart{
+    margin-left: 275px;
+}
+.active{
+    background-color: #1ABC9C;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    text-align: center;
+}
